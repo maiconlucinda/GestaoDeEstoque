@@ -39,3 +39,6 @@ build/
 
 ### Ignore Config File ###
 config/*.properties
+
+## Ignore modulos Java externo
+postgresql-*
